@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>ASP.NET Core 3.0 (MVC) で Cookie 認証を行うためのサンプルです。</Description>
+    <Company>ソーサリーフォース (httpsｓ://sorceryforce.net/)</Company>
+    <Authors>おのでら (ソーサリーフォース)</Authors>
+    <Copyright>Copyright (C) 2020 おのでら</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+
+
+</Project>
